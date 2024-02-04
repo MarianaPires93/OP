@@ -5,7 +5,7 @@ Trabalho de Optimization // Knapsack Problem // Mariana Pires e Duarte Patrão
 
 # Genetic Algorithm for Knapsack Problem
 
-- Overview:
+Overview:
 In the course of this project, our primary objective centered around the development of a Python algorithm aimed at producing an optimal solution for the knapsack problem. After careful consideration of various algorithmic approaches, we opted for the implementation of a genetic algorithm. This choice was driven by the algorithm's ability to address combinatorial optimization challenges and its adaptability to diverse problem instances.
 
 Furthermore, as part of our exploration into different methodologies, we undertook the development of an algorithm grounded in the concept of the utility-to-weight ratio. This alternative approach serves as a basis for comparison, allowing us to assess and contrast the effectiveness of the genetic algorithm against a more traditional ratio-based solution.
